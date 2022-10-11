@@ -15,31 +15,31 @@ I am Arsallan Shahab a freshman college student and a full stack web developer
 
 ### Skills
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
-<img align="left" style="border-radius:5px;margin:1px;width:75px" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" style="border-radius:5px;margin:7px;height:30px" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 <br />
 <br />
