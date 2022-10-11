@@ -47,9 +47,12 @@ I am Arsallan Shahab a freshman college student and a full stack web developer
 <br />
 
 ## Github Stats
+
 <br />
 
-![Arsallan's github stats](https://github-readme-stats.vercel.app/api?username=arsallanShahab&count_private=true&theme=gotham&hide=contribs,prs)
+![Arsallan's github stats](https://github-readme-stats.vaercel.app/api?username=arsallanShahab&count_private=true&theme=gotham&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsallanShahab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👀 I’m interested in Java, C++, Node, React, Angular, MongoDB
