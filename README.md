@@ -4,7 +4,7 @@ I am Arsallan Shahab a freshman college student and a full stack web developer
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ArsallanMd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ArsallanMd)](https://twitter.com/ArsallanMd) [![Linkedin Badge](https://img.shields.io/badge/-arsallan-shahab-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsallan-shahab/) [![Instagram Badge](https://img.shields.io/badge/-@arsallan.se-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/arsallan.se) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mdarsallan@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ArsallanMd-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ArsallanMd)](https://twitter.com/ArsallanMd) [![Linkedin Badge](https://img.shields.io/badge/-@arsallan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsallan-shahab/) [![Instagram Badge](https://img.shields.io/badge/-@arsallan.se-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/arsallan.se) [![Mail Badge](https://img.shields.io/badge/-mdarsallan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mdarsallan@gmail.com)
 
 - 🔭 I’m currently a college student
 - ⚡ Fun fact: I play games and can code all day.
